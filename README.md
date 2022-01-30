@@ -9,3 +9,4 @@
 
 
 •	The code is written in python and tensorflow(deep learning library).To get the summaries,a bi-directional RNN is used as the encoding layer and attention as the decoding layer.
+(Refer powerpoint file for detailed desreption)
